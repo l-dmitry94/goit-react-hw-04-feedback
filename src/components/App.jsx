@@ -27,7 +27,7 @@ const App = () => {
                         positivePercentage={positiveFeedback}
                     />
                 ) : (
-                    'No feedback given'
+                    'No feedback given' 
                 )}
             </Section>
         </>
